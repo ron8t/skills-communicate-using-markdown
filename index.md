@@ -6,6 +6,6 @@
 #### this is a 4 (#) begining before the script. we keep learning 
 
 ## after the comment you now type your text and it works just like
-## <h1>, <h2> up to <h6> all by using the hash before a text
+## from '<h1>'  '<h2>' up to '<h6>' all by using the hash before a text
 
 ## using this to make a meaning test is fun
